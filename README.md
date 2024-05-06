@@ -1,6 +1,6 @@
 # ChatGLM3
 
-## 当前问题
+## 当前问题0506
 - ChatGLM3项目中basci_demo的web_demo_gradio.py在运行时会错误输出特殊token。这是在降级huggingface_hub版本后发生的，但不确定二者有直接联系
 - 内网穿透https访问
 
