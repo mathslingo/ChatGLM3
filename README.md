@@ -4,6 +4,7 @@
 - ChatGLM3项目中basci_demo的web_demo_gradio.py在运行时会错误输出特殊token。这是在降级huggingface_hub版本后发生的，但不确定二者有直接联系
 - 内网穿透https访问
 
+-----
 
 <p align="center">
 🤗 <a href="https://huggingface.co/THUDM/chatglm3-6b" target="_blank">HF Repo</a> • 🤖 <a href="https://modelscope.cn/models/ZhipuAI/chatglm3-6b" target="_blank">ModelScope</a> • 🤖 <a href="https://www.wisemodel.cn/models/ZhipuAI/chatglm3-6b" target="_blank">WiseModel</a> • 🐦 <a href="https://twitter.com/thukeg" target="_blank">Twitter</a> • 📃 <a href="https://arxiv.org/abs/2103.10360" target="_blank">[GLM@ACL 22]</a> <a href="https://github.com/THUDM/GLM" target="_blank">[GitHub]</a> • 📃 <a href="https://arxiv.org/abs/2210.02414" target="_blank">[GLM-130B@ICLR 23]</a> <a href="https://github.com/THUDM/GLM-130B" target="_blank">[GitHub]</a> <br>
