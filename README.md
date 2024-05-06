@@ -1,8 +1,20 @@
 # ChatGLM3
 
 ## 当前问题0506
-- ChatGLM3项目中basci_demo的web_demo_gradio.py在运行时会错误输出特殊token。这是在降级huggingface_hub版本后发生的，但不确定二者有直接联系
+- ChatGLM3项目中basci_demo的web_demo_gradio.py在运行时会错误输出特殊token。
+  这是在降级huggingface_hub版本后发生的，但不确定二者有直接联系
+  - 输出什么token？有没有分析一下产生的原因？
+- Agent 与 LangChain：Agent 微调是指使用 Prompt 来微调模型，那么在 chatGLM 模型的基础上进行 Agent 调节的方法可以是：
+  - 设计合适的 Prompt：根据具体任务和需求，设计合适的 Prompt，以引导模型生成更准确的回答。可以使用一些模板或框架来帮助设计 Prompt。
+  - 微调模型：使用设计的 Prompt 对 chatGLM 模型进行微调。这可以通过调整模型的参数来实现，以适应不同的环境或任务。微调的过程中，可以使用一些优化算法和策略，如 Adam、学习率衰减等。
+  - 评估和调整：在微调过程中，需要定期评估模型的性能，并根据评估结果对模型进行调整。可以使用一些评估指标，如准确率、召回率、F1 分数等，来衡量模型的性能。
+  - 应用 Prompt：在模型推理过程中，可以使用设计的 Prompt 来引导模型生成更准确的回答。这可以通过将 Prompt 作为输入的一部分来实现。
 - 内网穿透https访问
+  - [贝锐花生壳](https://hsk.oray.com/)
+- 小红书暑期实习 
+  - [小红书火热招聘中，众多岗位总有一个适合你，点击下方链接开始投递吧！](https://hr.xiaohongshu.com/recommend/job-info/7071/XHSTOKEN-SlU1VmtjZnNjdnFabE0rZVlManVtQnpRZVc3bmFRVVQ1ME54SzhETzlqSGllTHd3b1p4V0U4NkVnZ3BlQTRsbQ==)
+
+ 
 
 -----
 
