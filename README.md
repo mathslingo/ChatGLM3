@@ -19,8 +19,7 @@
       - Output: comment
 - 内网穿透https访问 **v1**(1 week)
   - [贝锐花生壳](https://hsk.oray.com/)
-  - 数据
-    - heyihui: upload
+  - [数据](https://github.com/mathslingo/ChatGLM3/tree/MDDv1/MDD_data)
 - 小红书暑期实习 
   - [小红书火热招聘中，众多岗位总有一个适合你，点击下方链接开始投递吧！](https://hr.xiaohongshu.com/recommend/job-info/7071/XHSTOKEN-SlU1VmtjZnNjdnFabE0rZVlManVtQnpRZVc3bmFRVVQ1ME54SzhETzlqSGllTHd3b1p4V0U4NkVnZ3BlQTRsbQ==)
 
