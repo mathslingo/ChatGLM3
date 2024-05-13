@@ -9,7 +9,7 @@
   - 微调模型：使用设计的 Prompt 对 chatGLM 模型进行微调。这可以通过调整模型的参数来实现，以适应不同的环境或任务。微调的过程中，可以使用一些优化算法和策略，如 Adam、学习率衰减等。
   - 评估和调整：在微调过程中，需要定期评估模型的性能，并根据评估结果对模型进行调整。可以使用一些评估指标，如准确率、召回率、F1 分数等，来衡量模型的性能。
   - 应用 Prompt：在模型推理过程中，可以使用设计的 Prompt 来引导模型生成更准确的回答。这可以通过将 Prompt 作为输入的一部分来实现。
-  - **ChatMDDv2(2 month)**：适合LangChain-Web的场景
+  - **ChatMDDv2(2 months)**：适合LangChain-Web的场景
     - Task1: 基于LLM拆分用户的输入：命名实体识别；
       - Input: 任务命令+用户的自我描述（引导性）
       - Output: 符合MBTI测评网站的问题的选项"ABCD..."
@@ -21,8 +21,8 @@
   - 内网穿透https访问
     - [贝锐花生壳](https://hsk.oray.com/)
   - [医患对话文本数据集MDD](https://github.com/mathslingo/ChatGLM3/tree/MDDv1/MDD_data)
-- 小红书暑期实习 
-  - [小红书火热招聘中，众多岗位总有一个适合你，点击下方链接开始投递吧！](https://hr.xiaohongshu.com/recommend/job-info/7071/XHSTOKEN-SlU1VmtjZnNjdnFabE0rZVlManVtQnpRZVc3bmFRVVQ1ME54SzhETzlqSGllTHd3b1p4V0U4NkVnZ3BlQTRsbQ==)
+- **ChatMDDv3(3 months)**
+  - [xtuner](https://github.com/InternLM/lagent)：支持GLM3，具备agent精调；
 
 
 -----
